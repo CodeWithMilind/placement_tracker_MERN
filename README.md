@@ -2,6 +2,10 @@
 
 A full-stack MERN (MongoDB, Express, React, Node.js) application to track job and internship applications.
 
+## 📸 Screenshot
+
+![Placement Tracker UI](1.png)
+
 ## Features
 - **Add Applications**: Log your company applications with role and status.
 - **View All**: See all your applications in a clean table format.
@@ -21,8 +25,8 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application to track job an
 ## Folder Structure
 ```
 placement-tracker/
-ΓööΓöÇ client/       # React (Vite) frontend
-ΓööΓöÇ server/       # Node.js/Express backend
+ client/       # React (Vite) frontend
+ server/       # Node.js/Express backend
 ```
 
 ## Setup Instructions
