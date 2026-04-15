@@ -25,8 +25,8 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application to track job an
 ## Folder Structure
 ```
 placement-tracker/
-ΓööΓöÇ client/       # React (Vite) frontend
-ΓööΓöÇ server/       # Node.js/Express backend
+ client/       # React (Vite) frontend
+ server/       # Node.js/Express backend
 ```
 
 ## Setup Instructions
